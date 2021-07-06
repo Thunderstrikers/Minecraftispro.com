@@ -1,2 +1,2 @@
-# GamesInProject.com
+# MinecraftIsPro.com
 Making games
